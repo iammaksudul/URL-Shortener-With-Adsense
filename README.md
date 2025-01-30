@@ -5,6 +5,8 @@
 🚀 **A simple yet powerful PHP-based URL shortener that includes AdSense monetization and an interactive game to keep users engaged.**
 
 ---
+🔗 Live Demo
+🔗 Try the Live Demo Here: (https://tools.licfree.com/link/e3e610)
 
 ## **🛠 Features**
 ✅ **Shorten Any URL** 📏  
